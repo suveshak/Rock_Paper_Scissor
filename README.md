@@ -1,4 +1,5 @@
-🪨📄✂️ Rock Paper Scissor Detection App
+🪨📄✂️ **Rock Paper Scissor Detection App**
+
 A simple and interactive web application built with Streamlit that uses YOLOv8 to detect hand gestures — Rock, Paper, or Scissors — in uploaded images.
 
 🚀 Demo
