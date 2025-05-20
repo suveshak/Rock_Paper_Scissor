@@ -1,8 +1,8 @@
-🪨📄✂️ #**Rock Paper Scissor Detection App**
+# 🪨📄✂️ **Rock Paper Scissor Detection App**
 
 A simple and interactive web application built with Streamlit that uses YOLOv8 to detect hand gestures — Rock, Paper, or Scissors — in uploaded images.
 
-#**📸 Features**
+## **📸 Features**
 Upload an image containing hand gestures.
 
 Detects whether the gesture is Rock, Paper, or Scissor using a trained YOLOv8 model.
@@ -11,7 +11,7 @@ Beautiful, responsive UI with gesture examples.
 
 Fast and accurate predictions.
 
-🛠️ #**Tech Stack**
+## 🛠️ **Tech Stack**
 Python 🐍
 
 Streamlit 📈
@@ -20,7 +20,7 @@ YOLOv8 (via Ultralytics) 🎯
 
 PIL & OpenCV for image processing
 
-🔧 #**Setup Instructions**
+## 🔧 **Setup Instructions**
 Clone the repository:
 
 ```#bash
@@ -40,7 +40,7 @@ Place your last.pt file in the root directory or appropriate path as referenced 
 ```#bash
 streamlit run app.py
 ```
-📁 #**Project Structure**
+## 📁 **Project Structure**
 ```#bash
 Rock_Paper_Scissor/
 │
@@ -61,13 +61,13 @@ Done! 🎉
 
 If you're still set on using Vercel, it requires a workaround using Docker. Let me know and I can help you containerize it.
 
-✨ #**Credits**
+## ✨ **Credits**
 Ultralytics YOLOv8
 
 Streamlit
 
 World RPS Society for sample images
 
-📜 #**License**
+### 📜 **License**
 This project is licensed under the MIT License.
 
