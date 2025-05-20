@@ -31,11 +31,10 @@ cd Rock_Paper_Scissor
 Install dependencies:
 pip install streamlit pillow opencv-python ultralytics
 ```
-**Add the YOLO model:
-**
+## **Add the YOLO model:**
 Place your last.pt file in the root directory or appropriate path as referenced in the code.
 
-**Run the app:**
+## **Run the app:**
 
 ```#bash
 streamlit run app.py
